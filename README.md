@@ -1,10 +1,10 @@
-# week1-homework Horiseon Refactor
+# Week 1- Homework: Horiseon Refactor
 
 For this assinement I had a few things that I needed to do the list blow.
 
 
 
-All of the below were changes and code improvements:
+## All of the below were changes and code improvements:
 
 * Bullet list
 * Application's links all function correctly.
@@ -16,12 +16,18 @@ All of the below were changes and code improvements:
 * GitHub repository that contains application code.
 * Application resembles (at least 90%) screenshots provided in the homework instructions.
 
-# All of the below were changes to the Repository:
+## All of the below were changes to the Repository:
 
-Repository has a unique name.
-Repository follows best practices for file structure and naming conventions.
-Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-Repository contains multiple descriptive commit messages.
-Repository contains quality README file with description, screenshot, and link to deployed application.
+* Repository has a unique name.
+* Repository follows best practices for file structure and naming conventions.
+* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+* Repository contains multiple descriptive commit messages.
+* Repository contains quality README file with description, screenshot, and link to deployed application.
 
-![Alt text](/relative/path/to/img.jpg?raw=true "screenshot.png")
+
+<br>
+<br>
+
+## Screen Shot of Website
+
+![Alt text](https://raw.githubusercontent.com/DavidBuoy/week1-homework/main/screenshot/screenshot.png "screenshot.png")
